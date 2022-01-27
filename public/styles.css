@@ -1,0 +1,67 @@
+/* .bg-reg{
+
+} */
+.bord{
+    border:2px solid gray;
+    
+    padding:20px;
+    width:100%
+}
+/* .bord2{
+    border:2px solid gray;
+    
+    padding:20px;
+    width:50%
+} */
+.bord1{
+    border:2px solid gray;
+     margin-left:250px;
+    padding:20px;
+    width:100%;
+   
+}
+ .bg-log{
+    background-color:lightgray;
+ }
+.form-style{
+    background-color:palevioletred;
+    width:70%;
+    padding:20px
+} 
+.con{
+    background-color:#FFC0CB;
+}
+h2{
+    color:darkgreen;
+    font-weight: bold;
+    font-style: italic;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+label{
+    color:darkgreen;
+    font-weight: bold;
+    font-style: italic;
+     padding-top:10px;
+     font-size: 16px;
+}
+th{
+    /* font-style: italic; */
+    color:darkgreen;
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: "Roberto";
+
+}
+td{
+    color:darkslategray;
+    font-style: italic;
+    font-weight: 500;
+
+}
+.brd{
+    border:2px solid gray;
+    width:100%;
+    font-size: 30px;
+
+}

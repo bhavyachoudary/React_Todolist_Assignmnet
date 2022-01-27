@@ -1,0 +1,72 @@
+{
+  "UserData": [
+    {
+      "fname": "bhavya",
+      "lname": "mullapudi",
+      "uname": "bhavyamullapudi",
+      "email": "bhavyaneosoft@gmail.com",
+      "password": "bhavya@123",
+      "id": 1
+    },
+    {
+      "fname": "anushka",
+      "lname": "ne",
+      "uname": "anushkane",
+      "email": "anushkaneosoft@gmail.com",
+      "password": "anushka@123",
+      "id": 2
+    },
+    {
+      "fname": "jhon",
+      "lname": "mark",
+      "unam": "jhonmark",
+      "email": "jhon@gmail.com",
+      "password": "jhon@123",
+      "id": 3
+    },
+    {
+      "fname": "neha",
+      "lname": "deore",
+      "uname": "nehadeore",
+      "email": "neha@gmail.com",
+      "password": "neha@123",
+      "id": 4
+    },
+    {
+      "fname": "arun",
+      "lname": "madd",
+      "uname": "arunmadd",
+      "email": "arun@gmail.com",
+      "password": "arun@123",
+      "confirm": "arun@123",
+      "id": 5
+    },
+    {
+      "fname": "komal",
+      "lname": "verma",
+      "uname": "komalverma",
+      "email": "komal@gmail.com",
+      "password": "komal@123",
+      "confirm": "komal@123",
+      "id": 6
+    },
+    {
+      "fname": "madhuri",
+      "lname": "ambole",
+      "uname": "madhuriambole",
+      "email": "madhuri@gmail.com",
+      "password": "madhuri@123",
+      "confirm": "madhuri@123",
+      "id": 7
+    },
+    {
+      "fname": "mudissar",
+      "lname": "iqbal",
+      "uname": "mudissariqbal",
+      "email": "muddisar@gmail.com",
+      "password": "mudissar@123",
+      "confirm": "mudissar@123",
+      "id": 8
+    }
+  ]
+}
